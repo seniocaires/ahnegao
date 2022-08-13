@@ -29,4 +29,4 @@ Acesse http://localhost:3000
 
 ### Telas do sistema
 
-![](https://github.com/seniocaires/ahnegao/docs/video.gif)
+![](https://github.com/seniocaires/ahnegao/blob/main/docs/video.gif)
