@@ -6,7 +6,7 @@ Software acessa a coletânea de memes e retorna as imagens de acordo com o filtr
 
 Quando o usuário informa a url e seleciona um tipo de filtro, os parâmetros de pesquisa são enviados para o backend.
 
-No backend é utilizado um Web Scrapper para baixar as imagens, em seguida são extraídos os metadados dos arquivos e os dados são devolvidos para o frontend.
+No backend é utilizado um Web Scraper para baixar as imagens, em seguida são extraídos os metadados dos arquivos e os dados são devolvidos para o frontend.
 
 ### Stack
 
